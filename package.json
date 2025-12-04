@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://erokkumar.github.io/bffvendingsite/",
+  "homepage": "https://github.com/Akash323yadav/BFF.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
